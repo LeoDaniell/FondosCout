@@ -34,9 +34,9 @@
 
 	
 	<nav>
-		<a href="index.php" >Inicio</a>
-		<a href="index2.php">Asistencia</a>
-		<a href="index3.php">Reporte</a>
+		<a href="index.php" >Principio</a>
+		<a href="index2.php">Asistencia remota</a>
+		<a href="index3.php">Reporte diario</a>
 	</nav>
 </header>
 <div class="wrapper">
